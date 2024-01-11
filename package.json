@@ -9,6 +9,12 @@
     "react",
     "react server components"
   ],
+  "scripts": {
+    "test": "npx vitest"
+  },
   "author": "Oleksii Novikov <hello@novikraft.com> (https://novikraft.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "1.1.3"
+  }
 }
