@@ -1,0 +1,14 @@
+{
+  "name": "nextolia",
+  "version": "0.1.0",
+  "description": "Connects Magnolia CMS Headless to React Server Components.",
+  "keywords": [
+    "magnolia",
+    "magnolia cms",
+    "nextjs",
+    "react",
+    "react server components"
+  ],
+  "author": "Oleksii Novikov <hello@novikraft.com> (https://novikraft.com/)",
+  "license": "MIT"
+}
